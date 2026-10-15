@@ -1,7 +1,7 @@
 const SLUG_ALPHABET = "abcdefghijklmnopqrstuvwxyz0123456789";
 
 /** The custom domain used for all short links (e.g. https://sch.sh). */
-const SHORT_LINK_DOMAIN = "https://notifya.li";
+const SHORT_LINK_DOMAIN = "https://edu.org.vc";
 
 /** Generate a URL-safe random slug of the given length. */
 export function generateSlug(length = 7): string {
